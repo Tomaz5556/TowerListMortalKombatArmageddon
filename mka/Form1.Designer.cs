@@ -408,6 +408,7 @@
             textBox64.ReadOnly = true;
             textBox64.Size = new Size(80, 23);
             textBox64.TabIndex = 62;
+            textBox64.TabStop = false;
             textBox64.Text = "Dairou";
             textBox64.TextAlign = HorizontalAlignment.Center;
             // 
@@ -418,6 +419,7 @@
             textBox65.ReadOnly = true;
             textBox65.Size = new Size(80, 23);
             textBox65.TabIndex = 61;
+            textBox65.TabStop = false;
             textBox65.Text = "Fujin";
             textBox65.TextAlign = HorizontalAlignment.Center;
             // 
@@ -428,6 +430,7 @@
             textBox66.ReadOnly = true;
             textBox66.Size = new Size(80, 23);
             textBox66.TabIndex = 60;
+            textBox66.TabStop = false;
             textBox66.Text = "Kabal";
             textBox66.TextAlign = HorizontalAlignment.Center;
             // 
@@ -438,6 +441,7 @@
             textBox67.ReadOnly = true;
             textBox67.Size = new Size(80, 23);
             textBox67.TabIndex = 59;
+            textBox67.TabStop = false;
             textBox67.Text = "Hotaro";
             textBox67.TextAlign = HorizontalAlignment.Center;
             // 
@@ -448,6 +452,7 @@
             textBox68.ReadOnly = true;
             textBox68.Size = new Size(80, 23);
             textBox68.TabIndex = 58;
+            textBox68.TabStop = false;
             textBox68.Text = "Rain";
             textBox68.TextAlign = HorizontalAlignment.Center;
             // 
@@ -458,6 +463,7 @@
             textBox69.ReadOnly = true;
             textBox69.Size = new Size(80, 23);
             textBox69.TabIndex = 57;
+            textBox69.TabStop = false;
             textBox69.Text = "Kung Lao";
             textBox69.TextAlign = HorizontalAlignment.Center;
             // 
@@ -468,6 +474,7 @@
             textBox70.ReadOnly = true;
             textBox70.Size = new Size(80, 23);
             textBox70.TabIndex = 56;
+            textBox70.TabStop = false;
             textBox70.Text = "Ashrah";
             textBox70.TextAlign = HorizontalAlignment.Center;
             // 
@@ -478,6 +485,7 @@
             textBox71.ReadOnly = true;
             textBox71.Size = new Size(80, 23);
             textBox71.TabIndex = 55;
+            textBox71.TabStop = false;
             textBox71.Text = "Jax";
             textBox71.TextAlign = HorizontalAlignment.Center;
             // 
@@ -488,6 +496,7 @@
             textBox72.ReadOnly = true;
             textBox72.Size = new Size(80, 23);
             textBox72.TabIndex = 54;
+            textBox72.TabStop = false;
             textBox72.Text = "Bo' Rai Cho";
             textBox72.TextAlign = HorizontalAlignment.Center;
             // 
@@ -498,6 +507,7 @@
             textBox73.ReadOnly = true;
             textBox73.Size = new Size(80, 23);
             textBox73.TabIndex = 53;
+            textBox73.TabStop = false;
             textBox73.Text = "Hsu Hao";
             textBox73.TextAlign = HorizontalAlignment.Center;
             // 
@@ -508,6 +518,7 @@
             textBox74.ReadOnly = true;
             textBox74.Size = new Size(80, 23);
             textBox74.TabIndex = 52;
+            textBox74.TabStop = false;
             textBox74.Text = "Baraka";
             textBox74.TextAlign = HorizontalAlignment.Center;
             // 
@@ -518,6 +529,7 @@
             textBox75.ReadOnly = true;
             textBox75.Size = new Size(80, 23);
             textBox75.TabIndex = 51;
+            textBox75.TabStop = false;
             textBox75.Text = "Nitara";
             textBox75.TextAlign = HorizontalAlignment.Center;
             // 
@@ -528,6 +540,7 @@
             textBox76.ReadOnly = true;
             textBox76.Size = new Size(80, 23);
             textBox76.TabIndex = 50;
+            textBox76.TabStop = false;
             textBox76.Text = "Kabal";
             textBox76.TextAlign = HorizontalAlignment.Center;
             // 
@@ -538,6 +551,7 @@
             textBox77.ReadOnly = true;
             textBox77.Size = new Size(80, 23);
             textBox77.TabIndex = 49;
+            textBox77.TabStop = false;
             textBox77.Text = "Noob";
             textBox77.TextAlign = HorizontalAlignment.Center;
             // 
@@ -548,6 +562,7 @@
             textBox78.ReadOnly = true;
             textBox78.Size = new Size(80, 23);
             textBox78.TabIndex = 48;
+            textBox78.TabStop = false;
             textBox78.Text = "Reptile";
             textBox78.TextAlign = HorizontalAlignment.Center;
             // 
@@ -558,6 +573,7 @@
             textBox79.ReadOnly = true;
             textBox79.Size = new Size(80, 23);
             textBox79.TabIndex = 47;
+            textBox79.TabStop = false;
             textBox79.Text = "Sonya";
             textBox79.TextAlign = HorizontalAlignment.Center;
             // 
@@ -568,6 +584,7 @@
             textBox80.ReadOnly = true;
             textBox80.Size = new Size(80, 23);
             textBox80.TabIndex = 46;
+            textBox80.TabStop = false;
             textBox80.Text = "Mavado";
             textBox80.TextAlign = HorizontalAlignment.Center;
             // 
@@ -578,6 +595,7 @@
             textBox81.ReadOnly = true;
             textBox81.Size = new Size(80, 23);
             textBox81.TabIndex = 45;
+            textBox81.TabStop = false;
             textBox81.Text = "Dairou";
             textBox81.TextAlign = HorizontalAlignment.Center;
             // 
@@ -588,6 +606,7 @@
             textBox82.ReadOnly = true;
             textBox82.Size = new Size(80, 23);
             textBox82.TabIndex = 44;
+            textBox82.TabStop = false;
             textBox82.Text = "Ermac";
             textBox82.TextAlign = HorizontalAlignment.Center;
             // 
@@ -598,6 +617,7 @@
             textBox83.ReadOnly = true;
             textBox83.Size = new Size(80, 23);
             textBox83.TabIndex = 43;
+            textBox83.TabStop = false;
             textBox83.Text = "Tanya";
             textBox83.TextAlign = HorizontalAlignment.Center;
             // 
@@ -608,6 +628,7 @@
             textBox84.ReadOnly = true;
             textBox84.Size = new Size(80, 23);
             textBox84.TabIndex = 42;
+            textBox84.TabStop = false;
             textBox84.Text = "Jax";
             textBox84.TextAlign = HorizontalAlignment.Center;
             // 
@@ -618,6 +639,7 @@
             textBox85.ReadOnly = true;
             textBox85.Size = new Size(80, 23);
             textBox85.TabIndex = 41;
+            textBox85.TabStop = false;
             textBox85.Text = "Li Mei";
             textBox85.TextAlign = HorizontalAlignment.Center;
             // 
@@ -628,6 +650,7 @@
             textBox86.ReadOnly = true;
             textBox86.Size = new Size(80, 23);
             textBox86.TabIndex = 40;
+            textBox86.TabStop = false;
             textBox86.Text = "Shang Tsung";
             textBox86.TextAlign = HorizontalAlignment.Center;
             // 
@@ -638,6 +661,7 @@
             textBox87.ReadOnly = true;
             textBox87.Size = new Size(80, 23);
             textBox87.TabIndex = 39;
+            textBox87.TabStop = false;
             textBox87.Text = "Shang Tsung";
             textBox87.TextAlign = HorizontalAlignment.Center;
             // 
@@ -648,6 +672,7 @@
             textBox88.ReadOnly = true;
             textBox88.Size = new Size(80, 23);
             textBox88.TabIndex = 38;
+            textBox88.TabStop = false;
             textBox88.Text = "Tanya";
             textBox88.TextAlign = HorizontalAlignment.Center;
             // 
@@ -658,6 +683,7 @@
             textBox89.ReadOnly = true;
             textBox89.Size = new Size(80, 23);
             textBox89.TabIndex = 37;
+            textBox89.TabStop = false;
             textBox89.Text = "Rain";
             textBox89.TextAlign = HorizontalAlignment.Center;
             // 
@@ -668,6 +694,7 @@
             textBox90.ReadOnly = true;
             textBox90.Size = new Size(80, 23);
             textBox90.TabIndex = 36;
+            textBox90.TabStop = false;
             textBox90.Text = "Sindel";
             textBox90.TextAlign = HorizontalAlignment.Center;
             // 
@@ -678,6 +705,7 @@
             textBox91.ReadOnly = true;
             textBox91.Size = new Size(80, 23);
             textBox91.TabIndex = 35;
+            textBox91.TabStop = false;
             textBox91.Text = "Mokap";
             textBox91.TextAlign = HorizontalAlignment.Center;
             // 
@@ -688,6 +716,7 @@
             textBox92.ReadOnly = true;
             textBox92.Size = new Size(80, 23);
             textBox92.TabIndex = 34;
+            textBox92.TabStop = false;
             textBox92.Text = "Darrius";
             textBox92.TextAlign = HorizontalAlignment.Center;
             // 
@@ -698,6 +727,7 @@
             textBox93.ReadOnly = true;
             textBox93.Size = new Size(80, 23);
             textBox93.TabIndex = 33;
+            textBox93.TabStop = false;
             textBox93.Text = "Sheeva";
             textBox93.TextAlign = HorizontalAlignment.Center;
             // 
@@ -708,6 +738,7 @@
             textBox94.ReadOnly = true;
             textBox94.Size = new Size(80, 23);
             textBox94.TabIndex = 32;
+            textBox94.TabStop = false;
             textBox94.Text = "Kira";
             textBox94.TextAlign = HorizontalAlignment.Center;
             // 
@@ -718,6 +749,7 @@
             textBox95.ReadOnly = true;
             textBox95.Size = new Size(80, 23);
             textBox95.TabIndex = 31;
+            textBox95.TabStop = false;
             textBox95.Text = "Smoke";
             textBox95.TextAlign = HorizontalAlignment.Center;
             // 
@@ -728,6 +760,7 @@
             textBox96.ReadOnly = true;
             textBox96.Size = new Size(80, 23);
             textBox96.TabIndex = 30;
+            textBox96.TabStop = false;
             textBox96.Text = "Noob";
             textBox96.TextAlign = HorizontalAlignment.Center;
             // 
@@ -738,6 +771,7 @@
             textBox97.ReadOnly = true;
             textBox97.Size = new Size(80, 23);
             textBox97.TabIndex = 29;
+            textBox97.TabStop = false;
             textBox97.Text = "Jade";
             textBox97.TextAlign = HorizontalAlignment.Center;
             // 
@@ -748,6 +782,7 @@
             textBox98.ReadOnly = true;
             textBox98.Size = new Size(80, 23);
             textBox98.TabIndex = 28;
+            textBox98.TabStop = false;
             textBox98.Text = "Reptile";
             textBox98.TextAlign = HorizontalAlignment.Center;
             // 
@@ -758,6 +793,7 @@
             textBox99.ReadOnly = true;
             textBox99.Size = new Size(80, 23);
             textBox99.TabIndex = 27;
+            textBox99.TabStop = false;
             textBox99.Text = "Cage";
             textBox99.TextAlign = HorizontalAlignment.Center;
             // 
@@ -768,6 +804,7 @@
             textBox100.ReadOnly = true;
             textBox100.Size = new Size(80, 23);
             textBox100.TabIndex = 26;
+            textBox100.TabStop = false;
             textBox100.Text = "Hotaru";
             textBox100.TextAlign = HorizontalAlignment.Center;
             // 
@@ -778,6 +815,7 @@
             textBox101.ReadOnly = true;
             textBox101.Size = new Size(80, 23);
             textBox101.TabIndex = 25;
+            textBox101.TabStop = false;
             textBox101.Text = "Kenshi";
             textBox101.TextAlign = HorizontalAlignment.Center;
             // 
@@ -788,6 +826,7 @@
             textBox102.ReadOnly = true;
             textBox102.Size = new Size(80, 23);
             textBox102.TabIndex = 24;
+            textBox102.TabStop = false;
             textBox102.Text = "Frost";
             textBox102.TextAlign = HorizontalAlignment.Center;
             // 
@@ -798,6 +837,7 @@
             textBox103.ReadOnly = true;
             textBox103.Size = new Size(80, 23);
             textBox103.TabIndex = 23;
+            textBox103.TabStop = false;
             textBox103.Text = "Sindel";
             textBox103.TextAlign = HorizontalAlignment.Center;
             // 
@@ -808,6 +848,7 @@
             textBox104.ReadOnly = true;
             textBox104.Size = new Size(80, 23);
             textBox104.TabIndex = 22;
+            textBox104.TabStop = false;
             textBox104.Text = "Scorpion";
             textBox104.TextAlign = HorizontalAlignment.Center;
             // 
@@ -818,6 +859,7 @@
             textBox105.ReadOnly = true;
             textBox105.Size = new Size(80, 23);
             textBox105.TabIndex = 21;
+            textBox105.TabStop = false;
             textBox105.Text = "Baraka";
             textBox105.TextAlign = HorizontalAlignment.Center;
             // 
@@ -828,6 +870,7 @@
             textBox106.ReadOnly = true;
             textBox106.Size = new Size(80, 23);
             textBox106.TabIndex = 20;
+            textBox106.TabStop = false;
             textBox106.Text = "Kitana";
             textBox106.TextAlign = HorizontalAlignment.Center;
             // 
@@ -838,6 +881,7 @@
             textBox107.ReadOnly = true;
             textBox107.Size = new Size(80, 23);
             textBox107.TabIndex = 19;
+            textBox107.TabStop = false;
             textBox107.Text = "Raiden";
             textBox107.TextAlign = HorizontalAlignment.Center;
             // 
@@ -848,6 +892,7 @@
             textBox108.ReadOnly = true;
             textBox108.Size = new Size(80, 23);
             textBox108.TabIndex = 18;
+            textBox108.TabStop = false;
             textBox108.Text = "Havik";
             textBox108.TextAlign = HorizontalAlignment.Center;
             // 
@@ -858,6 +903,7 @@
             textBox109.ReadOnly = true;
             textBox109.Size = new Size(80, 23);
             textBox109.TabIndex = 17;
+            textBox109.TabStop = false;
             textBox109.Text = "Meat";
             textBox109.TextAlign = HorizontalAlignment.Center;
             // 
@@ -868,6 +914,7 @@
             textBox110.ReadOnly = true;
             textBox110.Size = new Size(80, 23);
             textBox110.TabIndex = 16;
+            textBox110.TabStop = false;
             textBox110.Text = "Sareena";
             textBox110.TextAlign = HorizontalAlignment.Center;
             // 
@@ -878,6 +925,7 @@
             textBox111.ReadOnly = true;
             textBox111.Size = new Size(80, 23);
             textBox111.TabIndex = 15;
+            textBox111.TabStop = false;
             textBox111.Text = "Liu Kang";
             textBox111.TextAlign = HorizontalAlignment.Center;
             // 
@@ -888,6 +936,7 @@
             textBox112.ReadOnly = true;
             textBox112.Size = new Size(80, 23);
             textBox112.TabIndex = 14;
+            textBox112.TabStop = false;
             textBox112.Text = "Kenshi";
             textBox112.TextAlign = HorizontalAlignment.Center;
             // 
@@ -898,6 +947,7 @@
             textBox113.ReadOnly = true;
             textBox113.Size = new Size(80, 23);
             textBox113.TabIndex = 13;
+            textBox113.TabStop = false;
             textBox113.Text = "Sindel";
             textBox113.TextAlign = HorizontalAlignment.Center;
             // 
@@ -908,6 +958,7 @@
             textBox114.ReadOnly = true;
             textBox114.Size = new Size(80, 23);
             textBox114.TabIndex = 12;
+            textBox114.TabStop = false;
             textBox114.Text = "Taven";
             textBox114.TextAlign = HorizontalAlignment.Center;
             // 
@@ -918,6 +969,7 @@
             textBox115.ReadOnly = true;
             textBox115.Size = new Size(80, 23);
             textBox115.TabIndex = 11;
+            textBox115.TabStop = false;
             textBox115.Text = "Mileena";
             textBox115.TextAlign = HorizontalAlignment.Center;
             // 
@@ -928,6 +980,7 @@
             textBox116.ReadOnly = true;
             textBox116.Size = new Size(80, 23);
             textBox116.TabIndex = 10;
+            textBox116.TabStop = false;
             textBox116.Text = "Shang Tsung";
             textBox116.TextAlign = HorizontalAlignment.Center;
             // 
@@ -938,6 +991,7 @@
             textBox117.ReadOnly = true;
             textBox117.Size = new Size(80, 23);
             textBox117.TabIndex = 9;
+            textBox117.TabStop = false;
             textBox117.Text = "Kobra";
             textBox117.TextAlign = HorizontalAlignment.Center;
             // 
@@ -948,6 +1002,7 @@
             textBox118.ReadOnly = true;
             textBox118.Size = new Size(80, 23);
             textBox118.TabIndex = 8;
+            textBox118.TabStop = false;
             textBox118.Text = "Moloch";
             textBox118.TextAlign = HorizontalAlignment.Center;
             // 
@@ -958,6 +1013,7 @@
             textBox119.ReadOnly = true;
             textBox119.Size = new Size(80, 23);
             textBox119.TabIndex = 7;
+            textBox119.TabStop = false;
             textBox119.Text = "Moloch";
             textBox119.TextAlign = HorizontalAlignment.Center;
             // 
@@ -968,6 +1024,7 @@
             textBox120.ReadOnly = true;
             textBox120.Size = new Size(80, 23);
             textBox120.TabIndex = 6;
+            textBox120.TabStop = false;
             textBox120.Text = "Moloch";
             textBox120.TextAlign = HorizontalAlignment.Center;
             // 
@@ -978,6 +1035,7 @@
             textBox121.ReadOnly = true;
             textBox121.Size = new Size(80, 23);
             textBox121.TabIndex = 5;
+            textBox121.TabStop = false;
             textBox121.Text = "Onaga";
             textBox121.TextAlign = HorizontalAlignment.Center;
             // 
@@ -988,6 +1046,7 @@
             textBox122.ReadOnly = true;
             textBox122.Size = new Size(80, 23);
             textBox122.TabIndex = 4;
+            textBox122.TabStop = false;
             textBox122.Text = "Onaga";
             textBox122.TextAlign = HorizontalAlignment.Center;
             // 
@@ -998,6 +1057,7 @@
             textBox123.ReadOnly = true;
             textBox123.Size = new Size(80, 23);
             textBox123.TabIndex = 3;
+            textBox123.TabStop = false;
             textBox123.Text = "Onaga";
             textBox123.TextAlign = HorizontalAlignment.Center;
             // 
@@ -1008,6 +1068,7 @@
             textBox124.ReadOnly = true;
             textBox124.Size = new Size(80, 23);
             textBox124.TabIndex = 2;
+            textBox124.TabStop = false;
             textBox124.Text = "Goro";
             textBox124.TextAlign = HorizontalAlignment.Center;
             // 
@@ -1018,6 +1079,7 @@
             textBox125.ReadOnly = true;
             textBox125.Size = new Size(80, 23);
             textBox125.TabIndex = 1;
+            textBox125.TabStop = false;
             textBox125.Text = "Goro";
             textBox125.TextAlign = HorizontalAlignment.Center;
             // 
@@ -1028,6 +1090,7 @@
             textBox126.ReadOnly = true;
             textBox126.Size = new Size(80, 23);
             textBox126.TabIndex = 0;
+            textBox126.TabStop = false;
             textBox126.Text = "Goro";
             textBox126.TextAlign = HorizontalAlignment.Center;
             // 
@@ -1220,6 +1283,7 @@
             textBox63.ReadOnly = true;
             textBox63.Size = new Size(80, 23);
             textBox63.TabIndex = 62;
+            textBox63.TabStop = false;
             textBox63.Text = "Fujin";
             textBox63.TextAlign = HorizontalAlignment.Center;
             // 
@@ -1230,6 +1294,7 @@
             textBox62.ReadOnly = true;
             textBox62.Size = new Size(80, 23);
             textBox62.TabIndex = 61;
+            textBox62.TabStop = false;
             textBox62.Text = "Scorpion";
             textBox62.TextAlign = HorizontalAlignment.Center;
             // 
@@ -1240,6 +1305,7 @@
             textBox61.ReadOnly = true;
             textBox61.Size = new Size(80, 23);
             textBox61.TabIndex = 60;
+            textBox61.TabStop = false;
             textBox61.Text = "Jade";
             textBox61.TextAlign = HorizontalAlignment.Center;
             // 
@@ -1250,6 +1316,7 @@
             textBox60.ReadOnly = true;
             textBox60.Size = new Size(80, 23);
             textBox60.TabIndex = 59;
+            textBox60.TabStop = false;
             textBox60.Text = "Striker";
             textBox60.TextAlign = HorizontalAlignment.Center;
             // 
@@ -1260,6 +1327,7 @@
             textBox59.ReadOnly = true;
             textBox59.Size = new Size(80, 23);
             textBox59.TabIndex = 58;
+            textBox59.TabStop = false;
             textBox59.Text = "Sub-Zero";
             textBox59.TextAlign = HorizontalAlignment.Center;
             // 
@@ -1270,6 +1338,7 @@
             textBox58.ReadOnly = true;
             textBox58.Size = new Size(80, 23);
             textBox58.TabIndex = 57;
+            textBox58.TabStop = false;
             textBox58.Text = "Raiden";
             textBox58.TextAlign = HorizontalAlignment.Center;
             // 
@@ -1280,6 +1349,7 @@
             textBox57.ReadOnly = true;
             textBox57.Size = new Size(80, 23);
             textBox57.TabIndex = 56;
+            textBox57.TabStop = false;
             textBox57.Text = "Kobra";
             textBox57.TextAlign = HorizontalAlignment.Center;
             // 
@@ -1290,6 +1360,7 @@
             textBox56.ReadOnly = true;
             textBox56.Size = new Size(80, 23);
             textBox56.TabIndex = 55;
+            textBox56.TabStop = false;
             textBox56.Text = "Sektor";
             textBox56.TextAlign = HorizontalAlignment.Center;
             // 
@@ -1300,6 +1371,7 @@
             textBox55.ReadOnly = true;
             textBox55.Size = new Size(80, 23);
             textBox55.TabIndex = 54;
+            textBox55.TabStop = false;
             textBox55.Text = "Li Mei";
             textBox55.TextAlign = HorizontalAlignment.Center;
             // 
@@ -1310,6 +1382,7 @@
             textBox54.ReadOnly = true;
             textBox54.Size = new Size(80, 23);
             textBox54.TabIndex = 53;
+            textBox54.TabStop = false;
             textBox54.Text = "Sheeva";
             textBox54.TextAlign = HorizontalAlignment.Center;
             // 
@@ -1320,6 +1393,7 @@
             textBox53.ReadOnly = true;
             textBox53.Size = new Size(80, 23);
             textBox53.TabIndex = 52;
+            textBox53.TabStop = false;
             textBox53.Text = "Shinnok";
             textBox53.TextAlign = HorizontalAlignment.Center;
             // 
@@ -1330,6 +1404,7 @@
             textBox52.ReadOnly = true;
             textBox52.Size = new Size(80, 23);
             textBox52.TabIndex = 51;
+            textBox52.TabStop = false;
             textBox52.Text = "Frost";
             textBox52.TextAlign = HorizontalAlignment.Center;
             // 
@@ -1340,6 +1415,7 @@
             textBox51.ReadOnly = true;
             textBox51.Size = new Size(80, 23);
             textBox51.TabIndex = 50;
+            textBox51.TabStop = false;
             textBox51.Text = "Shinnok";
             textBox51.TextAlign = HorizontalAlignment.Center;
             // 
@@ -1350,6 +1426,7 @@
             textBox50.ReadOnly = true;
             textBox50.Size = new Size(80, 23);
             textBox50.TabIndex = 49;
+            textBox50.TabStop = false;
             textBox50.Text = "Cage";
             textBox50.TextAlign = HorizontalAlignment.Center;
             // 
@@ -1360,6 +1437,7 @@
             textBox49.ReadOnly = true;
             textBox49.Size = new Size(80, 23);
             textBox49.TabIndex = 48;
+            textBox49.TabStop = false;
             textBox49.Text = "Nightwolf";
             textBox49.TextAlign = HorizontalAlignment.Center;
             // 
@@ -1370,6 +1448,7 @@
             textBox48.ReadOnly = true;
             textBox48.Size = new Size(80, 23);
             textBox48.TabIndex = 47;
+            textBox48.TabStop = false;
             textBox48.Text = "Nightwolf";
             textBox48.TextAlign = HorizontalAlignment.Center;
             // 
@@ -1380,6 +1459,7 @@
             textBox47.ReadOnly = true;
             textBox47.Size = new Size(80, 23);
             textBox47.TabIndex = 46;
+            textBox47.TabStop = false;
             textBox47.Text = "Cyrax";
             textBox47.TextAlign = HorizontalAlignment.Center;
             // 
@@ -1390,6 +1470,7 @@
             textBox46.ReadOnly = true;
             textBox46.Size = new Size(80, 23);
             textBox46.TabIndex = 45;
+            textBox46.TabStop = false;
             textBox46.Text = "Jade";
             textBox46.TextAlign = HorizontalAlignment.Center;
             // 
@@ -1400,6 +1481,7 @@
             textBox45.ReadOnly = true;
             textBox45.Size = new Size(80, 23);
             textBox45.TabIndex = 44;
+            textBox45.TabStop = false;
             textBox45.Text = "Striker";
             textBox45.TextAlign = HorizontalAlignment.Center;
             // 
@@ -1410,6 +1492,7 @@
             textBox44.ReadOnly = true;
             textBox44.Size = new Size(80, 23);
             textBox44.TabIndex = 43;
+            textBox44.TabStop = false;
             textBox44.Text = "Sektor";
             textBox44.TextAlign = HorizontalAlignment.Center;
             // 
@@ -1420,6 +1503,7 @@
             textBox43.ReadOnly = true;
             textBox43.Size = new Size(80, 23);
             textBox43.TabIndex = 42;
+            textBox43.TabStop = false;
             textBox43.Text = "Kira";
             textBox43.TextAlign = HorizontalAlignment.Center;
             // 
@@ -1430,6 +1514,7 @@
             textBox42.ReadOnly = true;
             textBox42.Size = new Size(80, 23);
             textBox42.TabIndex = 41;
+            textBox42.TabStop = false;
             textBox42.Text = "Rain";
             textBox42.TextAlign = HorizontalAlignment.Center;
             // 
@@ -1440,6 +1525,7 @@
             textBox41.ReadOnly = true;
             textBox41.Size = new Size(80, 23);
             textBox41.TabIndex = 40;
+            textBox41.TabStop = false;
             textBox41.Text = "Kano";
             textBox41.TextAlign = HorizontalAlignment.Center;
             // 
@@ -1450,6 +1536,7 @@
             textBox40.ReadOnly = true;
             textBox40.Size = new Size(80, 23);
             textBox40.TabIndex = 39;
+            textBox40.TabStop = false;
             textBox40.Text = "Nitara";
             textBox40.TextAlign = HorizontalAlignment.Center;
             // 
@@ -1460,6 +1547,7 @@
             textBox39.ReadOnly = true;
             textBox39.Size = new Size(80, 23);
             textBox39.TabIndex = 38;
+            textBox39.TabStop = false;
             textBox39.Text = "Havik";
             textBox39.TextAlign = HorizontalAlignment.Center;
             // 
@@ -1470,6 +1558,7 @@
             textBox38.ReadOnly = true;
             textBox38.Size = new Size(80, 23);
             textBox38.TabIndex = 37;
+            textBox38.TabStop = false;
             textBox38.Text = "Smoke";
             textBox38.TextAlign = HorizontalAlignment.Center;
             // 
@@ -1480,6 +1569,7 @@
             textBox37.ReadOnly = true;
             textBox37.Size = new Size(80, 23);
             textBox37.TabIndex = 36;
+            textBox37.TabStop = false;
             textBox37.Text = "Darrius";
             textBox37.TextAlign = HorizontalAlignment.Center;
             // 
@@ -1490,6 +1580,7 @@
             textBox36.ReadOnly = true;
             textBox36.Size = new Size(80, 23);
             textBox36.TabIndex = 35;
+            textBox36.TabStop = false;
             textBox36.Text = "Sareena";
             textBox36.TextAlign = HorizontalAlignment.Center;
             // 
@@ -1500,6 +1591,7 @@
             textBox35.ReadOnly = true;
             textBox35.Size = new Size(80, 23);
             textBox35.TabIndex = 34;
+            textBox35.TabStop = false;
             textBox35.Text = "Jarek";
             textBox35.TextAlign = HorizontalAlignment.Center;
             // 
@@ -1510,6 +1602,7 @@
             textBox34.ReadOnly = true;
             textBox34.Size = new Size(80, 23);
             textBox34.TabIndex = 33;
+            textBox34.TabStop = false;
             textBox34.Text = "Ashrah";
             textBox34.TextAlign = HorizontalAlignment.Center;
             // 
@@ -1520,6 +1613,7 @@
             textBox33.ReadOnly = true;
             textBox33.Size = new Size(80, 23);
             textBox33.TabIndex = 32;
+            textBox33.TabStop = false;
             textBox33.Text = "Kai";
             textBox33.TextAlign = HorizontalAlignment.Center;
             // 
@@ -1530,6 +1624,7 @@
             textBox32.ReadOnly = true;
             textBox32.Size = new Size(80, 23);
             textBox32.TabIndex = 31;
+            textBox32.TabStop = false;
             textBox32.Text = "Raiden";
             textBox32.TextAlign = HorizontalAlignment.Center;
             // 
@@ -1540,6 +1635,7 @@
             textBox31.ReadOnly = true;
             textBox31.Size = new Size(80, 23);
             textBox31.TabIndex = 30;
+            textBox31.TabStop = false;
             textBox31.Text = "Chameleon";
             textBox31.TextAlign = HorizontalAlignment.Center;
             // 
@@ -1550,6 +1646,7 @@
             textBox30.ReadOnly = true;
             textBox30.Size = new Size(80, 23);
             textBox30.TabIndex = 29;
+            textBox30.TabStop = false;
             textBox30.Text = "Shujinko";
             textBox30.TextAlign = HorizontalAlignment.Center;
             // 
@@ -1560,6 +1657,7 @@
             textBox29.ReadOnly = true;
             textBox29.Size = new Size(80, 23);
             textBox29.TabIndex = 28;
+            textBox29.TabStop = false;
             textBox29.Text = "Chameleon";
             textBox29.TextAlign = HorizontalAlignment.Center;
             // 
@@ -1570,6 +1668,7 @@
             textBox28.ReadOnly = true;
             textBox28.Size = new Size(80, 23);
             textBox28.TabIndex = 27;
+            textBox28.TabStop = false;
             textBox28.Text = "Nitara";
             textBox28.TextAlign = HorizontalAlignment.Center;
             // 
@@ -1580,6 +1679,7 @@
             textBox27.ReadOnly = true;
             textBox27.Size = new Size(80, 23);
             textBox27.TabIndex = 26;
+            textBox27.TabStop = false;
             textBox27.Text = "Rain";
             textBox27.TextAlign = HorizontalAlignment.Center;
             // 
@@ -1590,6 +1690,7 @@
             textBox26.ReadOnly = true;
             textBox26.Size = new Size(80, 23);
             textBox26.TabIndex = 25;
+            textBox26.TabStop = false;
             textBox26.Text = "Rain";
             textBox26.TextAlign = HorizontalAlignment.Center;
             // 
@@ -1600,6 +1701,7 @@
             textBox25.ReadOnly = true;
             textBox25.Size = new Size(80, 23);
             textBox25.TabIndex = 24;
+            textBox25.TabStop = false;
             textBox25.Text = "Sareena";
             textBox25.TextAlign = HorizontalAlignment.Center;
             // 
@@ -1610,6 +1712,7 @@
             textBox24.ReadOnly = true;
             textBox24.Size = new Size(80, 23);
             textBox24.TabIndex = 23;
+            textBox24.TabStop = false;
             textBox24.Text = "Jarek";
             textBox24.TextAlign = HorizontalAlignment.Center;
             // 
@@ -1620,6 +1723,7 @@
             textBox23.ReadOnly = true;
             textBox23.Size = new Size(80, 23);
             textBox23.TabIndex = 22;
+            textBox23.TabStop = false;
             textBox23.Text = "Scorpion";
             textBox23.TextAlign = HorizontalAlignment.Center;
             // 
@@ -1630,6 +1734,7 @@
             textBox22.ReadOnly = true;
             textBox22.Size = new Size(80, 23);
             textBox22.TabIndex = 21;
+            textBox22.TabStop = false;
             textBox22.Text = "Sheeva";
             textBox22.TextAlign = HorizontalAlignment.Center;
             // 
@@ -1640,6 +1745,7 @@
             textBox21.ReadOnly = true;
             textBox21.Size = new Size(80, 23);
             textBox21.TabIndex = 20;
+            textBox21.TabStop = false;
             textBox21.Text = "Quan Chi";
             textBox21.TextAlign = HorizontalAlignment.Center;
             // 
@@ -1650,6 +1756,7 @@
             textBox20.ReadOnly = true;
             textBox20.Size = new Size(80, 23);
             textBox20.TabIndex = 19;
+            textBox20.TabStop = false;
             textBox20.Text = "Drahmin";
             textBox20.TextAlign = HorizontalAlignment.Center;
             // 
@@ -1660,6 +1767,7 @@
             textBox19.ReadOnly = true;
             textBox19.Size = new Size(80, 23);
             textBox19.TabIndex = 18;
+            textBox19.TabStop = false;
             textBox19.Text = "Kai";
             textBox19.TextAlign = HorizontalAlignment.Center;
             // 
@@ -1670,6 +1778,7 @@
             textBox18.ReadOnly = true;
             textBox18.Size = new Size(80, 23);
             textBox18.TabIndex = 17;
+            textBox18.TabStop = false;
             textBox18.Text = "Reiko";
             textBox18.TextAlign = HorizontalAlignment.Center;
             // 
@@ -1680,6 +1789,7 @@
             textBox17.ReadOnly = true;
             textBox17.Size = new Size(80, 23);
             textBox17.TabIndex = 16;
+            textBox17.TabStop = false;
             textBox17.Text = "Reiko";
             textBox17.TextAlign = HorizontalAlignment.Center;
             // 
@@ -1690,6 +1800,7 @@
             textBox16.ReadOnly = true;
             textBox16.Size = new Size(80, 23);
             textBox16.TabIndex = 15;
+            textBox16.TabStop = false;
             textBox16.Text = "Mileena";
             textBox16.TextAlign = HorizontalAlignment.Center;
             // 
@@ -1700,6 +1811,7 @@
             textBox15.ReadOnly = true;
             textBox15.Size = new Size(80, 23);
             textBox15.TabIndex = 14;
+            textBox15.TabStop = false;
             textBox15.Text = "Reiko";
             textBox15.TextAlign = HorizontalAlignment.Center;
             // 
@@ -1710,6 +1822,7 @@
             textBox14.ReadOnly = true;
             textBox14.Size = new Size(80, 23);
             textBox14.TabIndex = 13;
+            textBox14.TabStop = false;
             textBox14.Text = "Meat";
             textBox14.TextAlign = HorizontalAlignment.Center;
             // 
@@ -1720,6 +1833,7 @@
             textBox13.ReadOnly = true;
             textBox13.Size = new Size(80, 23);
             textBox13.TabIndex = 12;
+            textBox13.TabStop = false;
             textBox13.Text = "Kabal";
             textBox13.TextAlign = HorizontalAlignment.Center;
             // 
@@ -1730,6 +1844,7 @@
             textBox12.ReadOnly = true;
             textBox12.Size = new Size(80, 23);
             textBox12.TabIndex = 11;
+            textBox12.TabStop = false;
             textBox12.Text = "Taven";
             textBox12.TextAlign = HorizontalAlignment.Center;
             // 
@@ -1740,6 +1855,7 @@
             textBox11.ReadOnly = true;
             textBox11.Size = new Size(80, 23);
             textBox11.TabIndex = 10;
+            textBox11.TabStop = false;
             textBox11.Text = "Daegon";
             textBox11.TextAlign = HorizontalAlignment.Center;
             // 
@@ -1750,6 +1866,7 @@
             textBox10.ReadOnly = true;
             textBox10.Size = new Size(80, 23);
             textBox10.TabIndex = 9;
+            textBox10.TabStop = false;
             textBox10.Text = "Sheeva";
             textBox10.TextAlign = HorizontalAlignment.Center;
             textBox10.TextChanged += textBox10_TextChanged;
@@ -1761,6 +1878,7 @@
             textBox9.ReadOnly = true;
             textBox9.Size = new Size(80, 23);
             textBox9.TabIndex = 8;
+            textBox9.TabStop = false;
             textBox9.Text = "Kintaro";
             textBox9.TextAlign = HorizontalAlignment.Center;
             // 
@@ -1771,6 +1889,7 @@
             textBox8.ReadOnly = true;
             textBox8.Size = new Size(80, 23);
             textBox8.TabIndex = 7;
+            textBox8.TabStop = false;
             textBox8.Text = "Kintaro";
             textBox8.TextAlign = HorizontalAlignment.Center;
             // 
@@ -1781,6 +1900,7 @@
             textBox7.ReadOnly = true;
             textBox7.Size = new Size(80, 23);
             textBox7.TabIndex = 6;
+            textBox7.TabStop = false;
             textBox7.Text = "Sheeva";
             textBox7.TextAlign = HorizontalAlignment.Center;
             // 
@@ -1791,6 +1911,7 @@
             textBox6.ReadOnly = true;
             textBox6.Size = new Size(80, 23);
             textBox6.TabIndex = 5;
+            textBox6.TabStop = false;
             textBox6.Text = "Shao Kahn";
             textBox6.TextAlign = HorizontalAlignment.Center;
             // 
@@ -1801,6 +1922,7 @@
             textBox5.ReadOnly = true;
             textBox5.Size = new Size(80, 23);
             textBox5.TabIndex = 4;
+            textBox5.TabStop = false;
             textBox5.Text = "Shao Kahn";
             textBox5.TextAlign = HorizontalAlignment.Center;
             // 
@@ -1811,6 +1933,7 @@
             textBox4.ReadOnly = true;
             textBox4.Size = new Size(80, 23);
             textBox4.TabIndex = 3;
+            textBox4.TabStop = false;
             textBox4.Text = "Shao Kahn";
             textBox4.TextAlign = HorizontalAlignment.Center;
             // 
@@ -1821,6 +1944,7 @@
             textBox3.ReadOnly = true;
             textBox3.Size = new Size(80, 23);
             textBox3.TabIndex = 2;
+            textBox3.TabStop = false;
             textBox3.Text = "Motaro";
             textBox3.TextAlign = HorizontalAlignment.Center;
             // 
@@ -1831,6 +1955,7 @@
             textBox2.ReadOnly = true;
             textBox2.Size = new Size(80, 23);
             textBox2.TabIndex = 1;
+            textBox2.TabStop = false;
             textBox2.Text = "Motaro";
             textBox2.TextAlign = HorizontalAlignment.Center;
             // 
@@ -1841,6 +1966,7 @@
             textBox1.ReadOnly = true;
             textBox1.Size = new Size(80, 23);
             textBox1.TabIndex = 0;
+            textBox1.TabStop = false;
             textBox1.Text = "Motaro";
             textBox1.TextAlign = HorizontalAlignment.Center;
             // 
