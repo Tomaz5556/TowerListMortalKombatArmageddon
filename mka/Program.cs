@@ -10,6 +10,7 @@ namespace mka
         {
             // To customize application configuration such as set high DPI settings or default font,
             // see https://aka.ms/applicationconfiguration.
+            SQLitePCL.Batteries_V2.Init();
             ApplicationConfiguration.Initialize();
             Application.Run(new Form1());
         }

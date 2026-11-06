@@ -318,6 +318,7 @@
             textBox144.Name = "textBox144";
             textBox144.Size = new Size(80, 23);
             textBox144.TabIndex = 72;
+            textBox144.TextAlign = HorizontalAlignment.Center;
             textBox144.TextChanged += textBox144_TextChanged;
             // 
             // textBox143
@@ -327,6 +328,7 @@
             textBox143.Name = "textBox143";
             textBox143.Size = new Size(80, 23);
             textBox143.TabIndex = 71;
+            textBox143.TextAlign = HorizontalAlignment.Center;
             textBox143.TextChanged += textBox143_TextChanged;
             // 
             // textBox142
@@ -336,6 +338,7 @@
             textBox142.Name = "textBox142";
             textBox142.Size = new Size(80, 23);
             textBox142.TabIndex = 70;
+            textBox142.TextAlign = HorizontalAlignment.Center;
             textBox142.TextChanged += textBox142_TextChanged;
             // 
             // textBox141
@@ -345,6 +348,7 @@
             textBox141.Name = "textBox141";
             textBox141.Size = new Size(80, 23);
             textBox141.TabIndex = 69;
+            textBox141.TextAlign = HorizontalAlignment.Center;
             textBox141.TextChanged += textBox141_TextChanged;
             // 
             // textBox140
@@ -354,6 +358,7 @@
             textBox140.Name = "textBox140";
             textBox140.Size = new Size(80, 23);
             textBox140.TabIndex = 68;
+            textBox140.TextAlign = HorizontalAlignment.Center;
             textBox140.TextChanged += textBox140_TextChanged;
             // 
             // textBox139
@@ -363,6 +368,7 @@
             textBox139.Name = "textBox139";
             textBox139.Size = new Size(80, 23);
             textBox139.TabIndex = 67;
+            textBox139.TextAlign = HorizontalAlignment.Center;
             textBox139.TextChanged += textBox139_TextChanged;
             // 
             // textBox138
@@ -372,6 +378,7 @@
             textBox138.Name = "textBox138";
             textBox138.Size = new Size(80, 23);
             textBox138.TabIndex = 66;
+            textBox138.TextAlign = HorizontalAlignment.Center;
             textBox138.TextChanged += textBox138_TextChanged;
             // 
             // textBox137
@@ -381,6 +388,7 @@
             textBox137.Name = "textBox137";
             textBox137.Size = new Size(80, 23);
             textBox137.TabIndex = 65;
+            textBox137.TextAlign = HorizontalAlignment.Center;
             textBox137.TextChanged += textBox137_TextChanged;
             // 
             // textBox136
@@ -390,6 +398,7 @@
             textBox136.Name = "textBox136";
             textBox136.Size = new Size(80, 23);
             textBox136.TabIndex = 64;
+            textBox136.TextAlign = HorizontalAlignment.Center;
             textBox136.TextChanged += textBox136_TextChanged;
             // 
             // textBox64
@@ -1131,6 +1140,7 @@
             textBox135.Name = "textBox135";
             textBox135.Size = new Size(80, 23);
             textBox135.TabIndex = 71;
+            textBox135.TextAlign = HorizontalAlignment.Center;
             textBox135.TextChanged += textBox135_TextChanged;
             // 
             // textBox134
@@ -1140,6 +1150,7 @@
             textBox134.Name = "textBox134";
             textBox134.Size = new Size(80, 23);
             textBox134.TabIndex = 70;
+            textBox134.TextAlign = HorizontalAlignment.Center;
             textBox134.TextChanged += textBox134_TextChanged;
             // 
             // textBox133
@@ -1149,6 +1160,7 @@
             textBox133.Name = "textBox133";
             textBox133.Size = new Size(80, 23);
             textBox133.TabIndex = 69;
+            textBox133.TextAlign = HorizontalAlignment.Center;
             textBox133.TextChanged += textBox133_TextChanged;
             // 
             // textBox132
@@ -1158,6 +1170,7 @@
             textBox132.Name = "textBox132";
             textBox132.Size = new Size(80, 23);
             textBox132.TabIndex = 68;
+            textBox132.TextAlign = HorizontalAlignment.Center;
             textBox132.TextChanged += textBox132_TextChanged;
             // 
             // textBox131
@@ -1167,6 +1180,7 @@
             textBox131.Name = "textBox131";
             textBox131.Size = new Size(80, 23);
             textBox131.TabIndex = 67;
+            textBox131.TextAlign = HorizontalAlignment.Center;
             textBox131.TextChanged += textBox131_TextChanged;
             // 
             // textBox130
@@ -1176,6 +1190,7 @@
             textBox130.Name = "textBox130";
             textBox130.Size = new Size(80, 23);
             textBox130.TabIndex = 66;
+            textBox130.TextAlign = HorizontalAlignment.Center;
             textBox130.TextChanged += textBox130_TextChanged;
             // 
             // textBox129
@@ -1185,6 +1200,7 @@
             textBox129.Name = "textBox129";
             textBox129.Size = new Size(80, 23);
             textBox129.TabIndex = 65;
+            textBox129.TextAlign = HorizontalAlignment.Center;
             textBox129.TextChanged += textBox129_TextChanged;
             // 
             // textBox128
@@ -1194,6 +1210,7 @@
             textBox128.Name = "textBox128";
             textBox128.Size = new Size(80, 23);
             textBox128.TabIndex = 64;
+            textBox128.TextAlign = HorizontalAlignment.Center;
             textBox128.TextChanged += textBox128_TextChanged;
             // 
             // textBox63
@@ -1834,6 +1851,7 @@
             textBox127.Name = "textBox127";
             textBox127.Size = new Size(80, 23);
             textBox127.TabIndex = 63;
+            textBox127.TextAlign = HorizontalAlignment.Center;
             textBox127.TextChanged += textBox127_TextChanged;
             // 
             // Form1
@@ -1843,7 +1861,7 @@
             ClientSize = new Size(797, 450);
             Controls.Add(tableLayoutPanel1);
             Name = "Form1";
-            Text = "Form1";
+            Text = "MKA";
             Load += Form1_Load;
             tableLayoutPanel1.ResumeLayout(false);
             tableLayoutPanel3.ResumeLayout(false);
