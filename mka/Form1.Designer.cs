@@ -651,7 +651,7 @@
             textBox86.Size = new Size(80, 23);
             textBox86.TabIndex = 40;
             textBox86.TabStop = false;
-            textBox86.Text = "Shang Tsung";
+            textBox86.Text = "Sub-Zero";
             textBox86.TextAlign = HorizontalAlignment.Center;
             // 
             // textBox87
