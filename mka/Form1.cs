@@ -151,7 +151,7 @@ namespace mka
 
         private void PintarColuna(TableLayoutPanel table, int col, bool preenchido)
         {
-            Color colorcol = preenchido ? Color.Green : Color.White;
+            Color colorcol = preenchido ? Color.Blue : Color.White;
 
             for (int row = 0; row < 8; row++)
             {
